@@ -1,0 +1,38 @@
+.bg-watch {
+    background-color: #ffa500;
+}
+
+.bg-bag {
+    background-color: #da70d6;
+}
+
+.bg-shoes {
+    background-color: #0000ff;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.btn-design {
+    background-image: linear-gradient(to right, #ff4992 0%, #ff3182 51%, #ff1b74 100%)
+}
+
+.btn-design {
+    padding: 9px 25px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 150% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+    border: none;
+}
+
+.btn-design:hover {
+    background-position: right center;
+    color: #fff;
+    text-decoration: none;
+}
